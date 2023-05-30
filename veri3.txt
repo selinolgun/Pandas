@@ -1,0 +1,7 @@
+ders,isim,bir,iki
+Mat,Ali,80,85
+Mat,Nut,90,70
+Mat,Can,70,95
+Fiz,Ali,65,90
+Fiz,Nur,85,80
+Fiz,Can,55,70

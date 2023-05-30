@@ -1,0 +1,5 @@
+Ali,80,E
+Efe,85,E
+Can,70,E
+Nur,90,K
+Eda,75,K

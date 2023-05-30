@@ -1,0 +1,6 @@
+isim,puan,cinsiyet
+Ali,80,NA
+Efe,,Efe
+Can,70,n.a
+,90,K
+Eda,-5,K
